@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hard Hat
+* source:	https://sketchfab.com/3d-models/hard-hat-5a67c92ce3174c37946076512356b0c7
+* author:	Kristiyan Marinov (https://sketchfab.com/kristiyan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hard Hat" (https://sketchfab.com/3d-models/hard-hat-5a67c92ce3174c37946076512356b0c7) by Kristiyan Marinov (https://sketchfab.com/kristiyan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
